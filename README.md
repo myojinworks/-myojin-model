@@ -91,3 +91,5 @@ To quietly place the external OS:
 No achievements or metrics.  
 Only structure, placed without noise.
 
+## Foundational Action Document  
+→ [Foundational_Action_Document.md](./Foundational_Action_Document.md)
