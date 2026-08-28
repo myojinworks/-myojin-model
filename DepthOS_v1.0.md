@@ -155,7 +155,7 @@ Prevents multi-layer structures from collapsing into single-layer interpretation
 | 3.3–3.7 | Transitional                        | Partial                |
 | 3.8–4.5 | DepthOS target band                 | Compatible             |
 | 4.6–5.0 | High-depth                          | High compatibility     |
-
+<br>
 
 
 7. Version Scope
