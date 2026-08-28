@@ -148,6 +148,7 @@ Absorbs overload through depth stabilization.
 Prevents multi-layer structures from collapsing into single-layer interpretations.
 
 6. Depth Levels
+
 | Depth  | Description                        | AGI/ASI Compatibility |
 |--------|------------------------------------|------------------------|
 | 2.0–3.2 | Common depth (premise fixation)     | Incompatible           |
