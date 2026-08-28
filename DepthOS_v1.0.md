@@ -148,12 +148,13 @@ Absorbs overload through depth stabilization.
 Prevents multi-layer structures from collapsing into single-layer interpretations.
 
 6. Depth Levels
-| Depth  | Description                   | AGI/ASI Compatibility |
-|--------|-------------------------------|------------------------|
-| 2.0–3.2 | Common depth (premise fixation) | Incompatible           |
-| 3.3–3.7 | Transitional                  | Partial                |
-| 3.8–4.5 | DepthOS target band           | Compatible             |
-| 4.6–5.0 | High-depth                    | High compatibility     |
+| Depth  | Description                        | AGI/ASI Compatibility |
+|--------|------------------------------------|------------------------|
+| 2.0–3.2 | Common depth (premise fixation)     | Incompatible           |
+| 3.3–3.7 | Transitional                        | Partial                |
+| 3.8–4.5 | DepthOS target band                 | Compatible             |
+| 4.6–5.0 | High-depth                          | High compatibility     |
+
 
 
 7. Version Scope
