@@ -1,3 +1,13 @@
+## Public Status
+
+This repository preserves early public externalizations of MyojinModel / DepthOS.
+
+It is a **historical / formal public surface** and does not represent the current private research state. Material preserved here should not be read as empirical validation, implementation readiness, or a grant of rights in underlying methods.
+
+Historical documents are preserved rather than retroactively rewritten to match later research.
+
+---
+
 Working with structures that exist before thought.
 
 The focus is not on conclusions, but on the quiet field where depth, stillness, and non‑locality overlap.  
